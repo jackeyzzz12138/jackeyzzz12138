@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## About code
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackeyzzz12138&layout=donut)](https://github.com/jackeyzzz12138/jackeyzzz12138)
 
-![jackey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackeyzzz12138&show_icons=true&theme=swift)
+![jackey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackeyzzz12138&show_icons=true&theme=swift&include_all_commits=true)
 
 
 *Thanks for your visit:*  
