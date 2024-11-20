@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src='src/splatoon.jpg' width=50% height=50% alt="pic from pixiv">
+<img src='src/splatoon.jpg' width=50% height=50% alt="Splatton pic, and It's from the pixiv.">
 
 ### About me
 - 🌱 I’m currently learning JavaScript and philosophy.
-- 📫 How to reach me: mail@jack1.top
 - 💻 browse my blog: https://jackeyzzz12138.github.io
 - I'm a freshman in CTF, and keen on Geek things.
 - Embrace open source.
