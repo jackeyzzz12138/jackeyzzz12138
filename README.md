@@ -14,20 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <img src='src/splatoon.jpg' width=50% height=50% alt="Splatton pic, and It's from the pixiv.">
+-->
 
 ### About me
-- 🌱 I’m currently learning JavaScript and philosophy.
-- 💻 browse my blog: https://jackeyzzz12138.github.io
+- 💻 browse my blog: https://blog.jack1.me
 - I'm a freshman in CTF, and keen on Geek things.
 - Embrace open source.
 - **Splatoon 3 forever!**
 
-## About code
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackeyzzz12138&layout=donut)](https://github.com/jackeyzzz12138/jackeyzzz12138)
-
-![jackey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackeyzzz12138&show_icons=true&theme=swift)
-
-
-*Thanks for your visit:*  
+### *Thanks for your visit:*  
 ![](https://moe-counter.glitch.me/get/@:jackeyzzz12138?theme=asoul)
